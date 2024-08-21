@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - use email - rkitz@ggc.edu
 - 😄 Pronouns: ... His MAJESTY
-- ⚡ Fun fact: ... I am very sarcastic
+- ⚡ Fun fact: ... I am very sarcastic, and you should NOT take me seriously.
+
 
 <!---
 richardkitz/richardkitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
