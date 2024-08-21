@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - use email - rkitz@ggc.edu
 - 😄 Pronouns: ... His MAJESTY
-<<<<<<< HEAD
 - ⚡ Fun fact: ... I am very sarcastic, and you should NOT take me seriously.
 
 =======
